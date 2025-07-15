@@ -15,7 +15,7 @@ This project presents a detailed equity valuation of **Unilever PLC**, conducted
 - **FCFE Valuation Approach**  
 - **Porter’s Five Forces Analysis**  
 - **Macroeconomic & Industry Analysis**  
-- Financial Ratio Analysis (Profitability, Liquidity, Solvency)
+- **Financial Ratio Analysis (Profitability, Liquidity, Solvency)**
 
 ## 💡 Key Findings
 - Projected future cash flows under realistic assumptions  
